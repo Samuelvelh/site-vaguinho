@@ -1,0 +1,52 @@
+* {
+	background-color:#f0f0f0;
+	margin: 0;
+		padding: 0;
+		
+}
+
+.centro{
+           
+		   
+		   margin: 40px auto;
+		  
+ 
+ }  
+body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            background-color: #555;
+            overflow: hidden;
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        .navbar a:hover {
+           background-color: #555;
+		} 
+		  
+		  *{
+		   margin: 0;
+		   padding: 0;
+		  }
+		    
+		.index.html{
+			width: 600px;
+			height: 800px;
+			background-color: blue;
+			margin: 40px auto;
+			border-radius: 20px;
+			box-shadow: 100px 100px 100px 0.9rem blue;
+		}
+input{padding:10px;}
+			
+
+		
+		
